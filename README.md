@@ -8,7 +8,7 @@ _大学：_ ブリティッシュコロンビア大学。
 
 _専攻：_ コンピュータサイエンス。
 
-### Hi there 👋
+### Hello 👋
 Hello, my name is Aleks!
 
 ### Academic background 🏫
